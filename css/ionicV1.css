@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?6q2ak2');
-  src:  url('fonts/icomoon.eot?6q2ak2#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?6q2ak2') format('truetype'),
-    url('fonts/icomoon.woff?6q2ak2') format('woff'),
-    url('fonts/icomoon.svg?6q2ak2#icomoon') format('svg');
+  src:  url('https://rawcdn.githack.com/CK1408/ionics/5e05181822e21c09b3361df5ec94e6a36c579e6f/icomoon.eot?6q2ak2');
+  src:  url('https://rawcdn.githack.com/CK1408/ionics/5e05181822e21c09b3361df5ec94e6a36c579e6f/icomoon.eot?6q2ak2#iefix') format('embedded-opentype'),
+    url('https://rawcdn.githack.com/CK1408/ionics/5e05181822e21c09b3361df5ec94e6a36c579e6f/icomoon.ttf?6q2ak2') format('truetype'),
+    url('https://rawcdn.githack.com/CK1408/ionics/5e05181822e21c09b3361df5ec94e6a36c579e6f/icomoon.woff?6q2ak2') format('woff'),
+    url('https://rawcdn.githack.com/CK1408/ionics/5e05181822e21c09b3361df5ec94e6a36c579e6f/icomoon.svg?6q2ak2#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
